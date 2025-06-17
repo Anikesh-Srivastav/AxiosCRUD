@@ -1,5 +1,6 @@
 Axios CRUD App 🧩
-A simple and clean React-based CRUD (Create, Read, Update, Delete) application that uses Axios to interact with the JSONPlaceholder API. Deployed [live here]((https://crudwithaxios1.netlify.app/)).
+A simple and clean React-based CRUD (Create, Read, Update, Delete) application that uses Axios to interact with the JSONPlaceholder API. Deployed [Visit my website](https://crudwithaxios1.netlify.app/)
+
 
 🔗 Live Demo
 👉 Visit the website
